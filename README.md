@@ -4,6 +4,11 @@
 
 ![그림1](https://github.com/SiwonChoi98/WatermelonTanghulu/assets/118884862/d91601e7-b083-4774-bf31-e6db8b3e06fa)
 
+플레이 영상 : [ https://youtu.be/2yRtLrhS5G0 ]
+
+플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge ]
+
+
 게임 명 : 수박 탕후루
 
 게임 설명 : 최근 유명세를 탔던 수박 게임과 탕후루의 달인이라는 게임을 합쳐 단순한 수박 게임에서 조금은 머리를 써야하는 수박 게임!
